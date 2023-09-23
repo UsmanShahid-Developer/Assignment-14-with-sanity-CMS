@@ -1,0 +1,24 @@
+{
+  "name": "assigment-11",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "next lint"
+  },
+  "dependencies": {
+    "@sanity/client": "^6.4.12",
+    "@sanity/image-url": "^1.0.2",
+    "@sanity/vision": "^3.16.7",
+    "eslint": "8.47.0",
+    "eslint-config-next": "13.4.19",
+    "next": "13.4.19",
+    "next-sanity": "^5.5.4",
+    "react": "18.2.0",
+    "react-dom": "18.2.0",
+    "sanity": "^3.16.7",
+    "styled-components": "5.2"
+  }
+}
